@@ -33,4 +33,6 @@ while ($donnees_user = $reponse->fetch())
 $_SESSION['VERIF']=1;
 header('Location: index.php');
 
+
+//modif inutile
 ?>
