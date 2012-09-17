@@ -34,5 +34,7 @@ $_SESSION['VERIF']=1;
 header('Location: index.php');
 
 
+//Editer par Yacine
+
 //modif inutile
 ?>
