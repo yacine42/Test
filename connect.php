@@ -34,5 +34,6 @@ $_SESSION['VERIF']=1;
 header('Location: index.php');
 
 
+Et la !!!
 //modif inutile
 ?>
