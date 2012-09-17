@@ -5,7 +5,7 @@ session_start();
 //if($_SESSION['rights'] != 'null')
 //{
 //	header('Location: index.php');
-//	exit();
+//	exit();yy
 //}
 
 include("include/db_connect.php");
