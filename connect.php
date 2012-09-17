@@ -37,3 +37,6 @@ header('Location: index.php');
 
 //modif inutile
 ?>
+<p>
+	Ajout d'une nouvelle bannière en JAVASCRIPT !
+</p>
