@@ -39,4 +39,15 @@ header('Location: index.php');
 ?>
 <p>
 	Ajout d'une nouvelle bannière en JAVASCRIPT !
+	<br />
+	Ok on continue avec du PHP ?
+	<?php
+		if($imtheboss == 1){
+			$bg = 153;
+		}
+		else{
+			$stfu = 1;
+		}
+	
+	?>
 </p>
