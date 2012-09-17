@@ -1,6 +1,7 @@
 <?php 
 
 session_start();
+//Le php, moi, je sais pas faire !
 
 //if($_SESSION['rights'] != 'null')
 //{
